@@ -12,3 +12,5 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+/OpenGL Mandelbrot and Julia Fractals/bin-int/Debug
+/OpenGL Mandelbrot and Julia Fractals/bin/Debug

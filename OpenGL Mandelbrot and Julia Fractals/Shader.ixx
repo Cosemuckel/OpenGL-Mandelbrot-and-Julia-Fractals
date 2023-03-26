@@ -13,6 +13,8 @@ export class Shader {
 public:
 
 	unsigned int programID;
+
+	Shader() = default;
 	
 	Shader(const char* vertexPath, const char* fragmentPath) {
 
